@@ -1,0 +1,11 @@
+# OOP Project 1
+
+3-6-2021
+
+ideas:
+
+microsoft teams bot
+java game
+inventory system
+
+
